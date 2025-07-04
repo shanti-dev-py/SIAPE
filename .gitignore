@@ -1,8 +1,2 @@
  Entorno virtual
-.pvenv/
-
-# Archivos de Python
-__pycache__/
-*.py[cod]
-*.sqlite3
-.env
+pvenv/
